@@ -26,8 +26,10 @@
 </table>
 <!-- Programming Languages -->
 
+Familiarity with:
 <p>
   <!-- Languages -->
+  
   <a href="https://www.javascript.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" alt="JavaScript" width="40" height="40"/>
   </a>
