@@ -94,9 +94,9 @@
   <a href="https://slack.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/slack/slack-icon.svg" alt="Slack" width="40" height="40"/>
   </a>
-  <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer">
+<!--   <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer">
   <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="JIRA" width="40" height="40"/>
-  </a>
+  </a> -->
   <a href="https://trello.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/trello/trello-icon.svg" alt="Trello" width="40" height="40"/>
   </a>
