@@ -21,8 +21,9 @@
     </td>
     <td>
       <!-- Contributions Card -->
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=yolivi-commits&theme=dracula" alt="yoliviag" />
-    </td>
+
+<img src="https://streak-stats.demolab.com?user=yolivi-commits&theme=dracula&short_numbers=true&mode=weekly" alt="GitHub Streak" />
+  </td>
   </tr>
 </table>
 
