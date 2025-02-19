@@ -2,10 +2,10 @@
 <h4 align="center"> Problem Solver fueled by cold brew coffee</h4>
 
 ### **About**
-- 🔥 Experience: Blending expertise in data science, analytics, and BI with a background in software engineering to create impactful, data-driven solutions.
+- 🔥 Experience: Blending expertise in data analytics, data science, and business intelligence with a background in software engineering to build scalable, insight-driven solutions. Skilled in data modeling, automation, statistical analysis, and data visualization to optimize workflows and enhance business decision-making.
 - ⚡ Fun fact: I can play the kalimba.
 
-### **🚀 Currently Working On:**  
+### **Currently Working On**  
 - Developing a data pipeline with workflow orchestration using **Kestra**, enhancing data ingestion and transforming workflows for impactful insights.
 
 
@@ -27,7 +27,7 @@
   </tr>
 </table>
 
-### 🌟 Skills & Tools
+###  Skills & Tools
 
 <p align="center">
   <!-- Languages & Frameworks -->
