@@ -6,7 +6,7 @@
 - ⚡ Always exploring new ways to extract insights—whether from data or a great cup of coffee.
 
 ### **Currently Working On**  
-- Developing a data pipeline with workflow orchestration using **Kestra**, enhancing data ingestion and transforming workflows for impactful insights.
+- Developing a data pipeline with workflow orchestration using **Kestra**, enhancing data ingestion and transforming workflows.
 
 
 
