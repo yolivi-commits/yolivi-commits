@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Olivia</h1>
-<h4 align="center"> Problem Solver</h4>
+<!-- <h4 align="center"> Problem Solver</h4> -->
 
 ### **About**
 - 🔥 Experience: Bridging data analytics, data science, and business intelligence with a background in software engineering. I design scalable, insight-driven solutions using data modeling, automation, statistical analysis, and visualization to enhance workflows and business decision-making.
