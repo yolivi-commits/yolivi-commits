@@ -2,7 +2,7 @@
 <h4 align="center"> Problem Solver</h4>
 
 ### **About**
-- 🔥 Experience: Blending expertise in data analytics, data science, and business intelligence with a background in software engineering to build scalable, insight-driven solutions. Skilled in data modeling, automation, statistical analysis, and data visualization to optimize workflows and enhance business decision-making.
+- 🔥 Experience: Bridging data analytics, data science, and business intelligence with a background in software engineering. I design scalable, insight-driven solutions using data modeling, automation, statistical analysis, and visualization to enhance workflows and business decision-making.
 - ⚡ Always exploring new ways to extract insights—whether from data or a great cup of coffee.
 
 ### **Currently Working On**  
